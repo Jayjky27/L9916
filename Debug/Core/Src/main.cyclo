@@ -1,0 +1,12 @@
+../Core/Src/main.c:87:5:main	1
+../Core/Src/main.c:133:6:SystemClock_Config	3
+../Core/Src/main.c:173:13:MX_I2C1_Init	2
+../Core/Src/main.c:207:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:240:13:MX_GPIO_Init	1
+../Core/Src/main.c:283:19:L9916_Write_OTP	6
+../Core/Src/main.c:313:19:L9916_Read_OTP	2
+../Core/Src/main.c:329:6:Error_Handler	1
+../Core/Src/main.c:337:6:Entering_program_mode	4
+../Core/Src/main.c:384:6:OTP_Write	3
+../Core/Src/main.c:405:6:OTP_WaitForCompletion	2
+../Core/Src/main.c:417:6:OTP_programming	1
